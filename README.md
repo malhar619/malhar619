@@ -1,16 +1,42 @@
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻, I'm Malhar Girish Kulkarni! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>A passionate frontend developer | blockchain developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**malhar619/malhar619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/malhark73965196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malhark73965196" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malhar-kulkarni-048365204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malhar-kulkarni-048365204" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const malhar = {
+    code: ["C++","HTML", "CSS", "Javascript", "SQL", "Solidity"],
+    askMeAbout: ["WebDev", "Tech", "Blockchain", "Crypto", "Finance"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["tailwind", "bootstrap"]
+        },
+        blockChain: ["Solidity","Metamask","LensProtocol"],
+        devOps: ["AWS", "Docker🐳", "ci-cd", "Jenkins"],
+        toolsAndTech: ["Firebase", "Postman", "Wordpress", "Github", "Thirdweb"],
+        learning: ["Linux", "Python", "Java", "Truffle", "Ganache"]
+    },
+    currentProject: "I am developing finance application for easy data visualization",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+- 📫 How to reach me **malharkulkarni619@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15PrgcoLlIf88cakiVMgk6jQgBaDErEvn/view?usp=drivesdk](https://drive.google.com/file/d/15PrgcoLlIf88cakiVMgk6jQgBaDErEvn/view?usp=drivesdk)
+
+- ⚡ Gaming Interests **Cricket, Chess**
+  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<!--START_SECTION:waka-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malhar619&show_icons=true&locale=en&layout=compact" alt="malhar619" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malhar619&show_icons=true&locale=en" alt="malhar619" /></p>
+<!--END_SECTION:waka-->
