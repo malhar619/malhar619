@@ -29,7 +29,7 @@ const malhar = {
 ```
 - 📫 How to reach me **malharkulkarni619@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15PrgcoLlIf88cakiVMgk6jQgBaDErEvn/view?usp=drivesdk](https://shorturl.at/4TTeX)
+- 📄 Know about my experiences [Updated Resume](https://shorturl.at/4TTeX)
 
 - ⚡ Gaming Interests **Cricket, Chess**
   
