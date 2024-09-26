@@ -31,8 +31,6 @@ const malhar = {
 ```
 - 📫 How to reach me **malharkulkarni619@gmail.com**
 
-- 📄 Know about my experiences [Updated Resume](https://shorturl.at/4TTeX)
-
 - ⚡ Gaming Interests **Cricket, Chess**
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
