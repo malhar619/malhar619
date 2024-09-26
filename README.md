@@ -7,7 +7,6 @@
 <a href="https://twitter.com/malhark73965196" target="blank"><img align="center" src="https://www.svgrepo.com/show/513008/twitter-154.svg" alt="malhark73965196" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/malhar-kulkarni-048365204" target="blank"><img align="center" src="https://www.svgrepo.com/show/108614/linkedin.svg" alt="malhar-kulkarni-048365204" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/malharkulkarni/" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="malhar-kulkarni-048365204" height="30" width="40" /></a>
-<a href="https://shorturl.at/4TTeX" target="blank"><img align="center" src="https://www.svgrepo.com/show/483015/resume-4.svg" alt="malhar-kulkarni-048365204" height="30" width="40" /></a>
 <a href="https://malharkportfolio.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/447845/website-click.svg" height="30" width="40" /></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
