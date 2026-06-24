@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=malhar619&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=malhar619&label=Profile+Views&color=0e75b6&style=for-the-badge"/> -->
 
 </div>
 
@@ -19,7 +19,7 @@
 ```yaml
 Name: Malhar Kulkarni
 Role: Associate System Engineer @ TCS
-Experience: 1.5+ Years
+Experience: 1.7+ Years
 
 Current Focus:
   - Python Backend Development
@@ -174,26 +174,16 @@ Features:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard# 📊 GitHub Dashboard
 
-<div align="center">
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malhar619&theme=tokyonight"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malhar619&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhar619&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=malhar619&theme=tokyonight"/>
-
-</div>
-
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malhar619&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malhar619&theme=tokyonight"/>
+</p>
 ---
 
 # 💡 Quote of the Day
